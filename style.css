@@ -1,0 +1,82 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+    color : red;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.footer{
+    color: white;
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.test_image_and_result{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+
+#image{
+    border-radius: 15px;
+    padding:10px;
+    margin:10px;
+}
+
+b{
+    color: purple;
+}
+
+.white{
+    color: white;
+}
+
+.results{
+    margin-top: 15px;
+    background-color: rgb(241, 148, 200);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:95%;
+    margin-bottom: 55px;
+    margin-left: 50px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+    font-weight: bold;
+}
